@@ -1,8 +1,3 @@
-/*
-  id.cpp
-  Nick Zelada
-  09/21/17
-*/
 
 #ifndef _ID_CPP
 #define _ID_CPP
